@@ -31,7 +31,7 @@ object MiddleoftheLinkedList {
   def main(args: Array[String]): Unit = {
 
   }
-  def middleNode(head: ListNode): Unit = {
-
-  }
+//  def middleNode(head: ListNode): Unit = {
+//
+//  }
 }
