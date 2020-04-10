@@ -9,7 +9,7 @@ package simple.longestpalindromicsubstring;
  */
 public class LongestPalindromicSubstring {
     public static void main(String[] args) {
-        System.out.println(longestPalindrome("a"));
+        System.out.println(longestPalindrome("abccccdd"));
     }
     public static String longestPalindrome(String s) {
         int maxChars = 0;
